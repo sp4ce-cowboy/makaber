@@ -105,7 +105,7 @@ More in [ARCHITECTURE.md](ARCHITECTURE.md): the domain model, the pipeline seman
 access-right logic, concurrency, resilience, security, the migration, and the decisions
 and their trade-offs.
 
-## Skills shown
+## Skills covered
 
 | Skill | How it's shown | Docs |
 |---|---|---|
